@@ -11,8 +11,8 @@
     <groupId>com.eugeniojava</groupId>
     <artifactId>java-calculator-2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>demo</name>
-    <description>demo</description>
+    <name>Java Calculator 2</name>
+    <description>Java Calculator 2</description>
     <properties>
         <java.version>1.8</java.version>
         <reflections.version>0.10.2</reflections.version>
